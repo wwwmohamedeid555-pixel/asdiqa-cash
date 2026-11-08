@@ -1,0 +1,8 @@
+name = "wandering-pine-2b52"
+main = "worker.js"
+compatibility_date = "2026-11-08"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "asdiqa cash"
+database_id = "a97779ab-1dec-41c1-beec-5317fbf00d65"
